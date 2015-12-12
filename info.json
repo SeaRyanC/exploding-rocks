@@ -1,0 +1,10 @@
+{
+  "name": "ExplodingRocks",
+  "version": "0.1.0",
+  "title": "Exploding Rocks",
+  "author": "SeaRyanC",
+  "contact": "http://github.com/SeaRyanC/",
+  "homepage": "http://github.com/SeaRyanC/exploding-rocks",
+  "description": "When rocks on the map are destroyed, they can take out other nearby rocks",
+  "dependencies": ["base"]
+}
